@@ -1,1 +1,3 @@
 # fishntest
+
+fix #1
